@@ -2,6 +2,8 @@
 
 # Next.js Dashboard App
 
+[DEPLOY](https://next-dashboard-5jogtk5e3-anzhalikas-projects.vercel.app/)
+
 This project is a part of the [Next.js Learn Dashboard App course](https://nextjs.org/learn/dashboard-app). The goal of this project is to develop a simple dashboard application using Next.js, covering essential concepts such as dynamic routing, API routes, data fetching, and UI rendering.
 
 ## Table of Contents
